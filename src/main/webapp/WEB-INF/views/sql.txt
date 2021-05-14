@@ -1,0 +1,13 @@
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456';
+
+
+use mysqltest;
+
+create table simple_bbs (
+	`id` int primary key auto_increment,
+    `writer` varchar(200),
+    `title` varchar(200),
+    `content` varchar(200)
+) ENGINE=InnoDB default CHARSET=utf8mb4;
+
+select * from simple_bbs ;

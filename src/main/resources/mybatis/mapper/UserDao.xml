@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+	PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+	
+<mapper namespace="com.study.springboot.dao.IUserDao">
+	<select id="listDao" resultType="com.study.springboot.dto.UserDto">
+		 select * from user 
+	</select>
+	<select id="viewDao" resultType="com.study.springboot.dto.UserDto">
+		 select * from user  
+	</select>
+	<insert id="signupUserDao">
+		 insert into user (email, password, salt)
+		 	values (#{param1}, #{param2}, #{param3})
+	</insert>
+	<select id="selectDao" resultType="com.study.springboot.dto.UserDto"> 
+		select * from user where email=#{param1}
+	</select>
+	<update id="updateDao"> 
+		update user set password = #{param2}, salt=#{param3} where email= #{param1}
+	</update>
+	<delete id="deleteDao">
+		 delete from user where email = #{param1}
+	</delete>
+</mapper>
