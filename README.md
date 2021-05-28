@@ -15,7 +15,7 @@ Web Programming. Use, Spring Boot, https://spring.io/
 
 Programming language, JAVA. https://www.oracle.com/index.html
 
-Database, MySQL. https://dev.mysql.com/
+Database, MySQL. https://dev.mysql.com/  ; MySQL Community Server (GPL License)
 
 <br/>
 참조한 책, Book. <br/><br/>
