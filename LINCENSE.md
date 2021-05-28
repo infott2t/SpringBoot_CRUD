@@ -1,14 +1,32 @@
+<br/>
+<h2?Hello~.</h2>
+<h2>Let's safely use smartphones, etc.</h2> 
+<h2>Let's make good traditioning to self.</h2><br/><br/>
+<h2>안녕하세요.</h2>
+<h2>스마트 기기등. 안전하게 사용합시다. 좋은 습관을 만들어요.</h2>
 
+<br/><br/><br/><br/>
 
-안녕하세요. 
+I use this, 
 
-스마트 기기. 안전하게 사용합시다.
+Web Programming. Use, Spring Boot, https://spring.io/
+
+Programming language, JAVA. https://www.oracle.com/index.html
+
+Database, MySQL. https://dev.mysql.com/
+
+<br/>
+참조한 책, Book. <br/><br/>
+예제로 배우는 스프링 부트 입문;  비제이퍼블릭; isbn 979-11-6592-030-2.
+
 <br/><br/>
+<h2>설명</h2>
 
-학습 목적용으로 만들었습니다. Spring Boot, 웹프로그래밍이군요.
+
+학습 목적용으로 만들었습니다. Spring Boot, 웹프로그래밍이군요. 재미있네요.  공부해보세요~.
 
 
-제작후, 실제 웹프로그래밍으로서 사용이라든지, 상업적이용등. 책임을 지지 않습니다. 저의 견해이군요. 
+제작 후, 실제 웹프로그래밍으로서 사용이라든지, 상업적이용등. 책임을 지지 않습니다. 저의 견해이군요. 
 
 
 암호화라든지, 코드를 그대로 사용해서 발생하는 피해에 대해서 
