@@ -18,12 +18,16 @@ Database, MySQL. https://dev.mysql.com/ ; MySQL Community Server (GPL License)
 <br/>
 참조한 책, Book. <br/><br/>
 예제로 배우는 스프링 부트 입문;  비제이퍼블릭; isbn 979-11-6592-030-2.
-<br/><br/>
-I no use this git code on commerce. 
-저는 이 git 코드를 상업적으로 이용하지 않습니다.
+<br/><br/><br/>
+<h4>I no use this git code on commerce. ;
+저는 이 git 코드를 상업적으로 이용하지 않습니다.</h4>
 <br/><br/>
 <h2>설명</h2>
 
+스마트 기기. 안전하게 사용합시다. 좋은 습관을 만들어요.
+
+
+<br/>
 
 학습 목적용으로 만들었습니다. Spring Boot, 웹프로그래밍이군요. 재미있네요.  공부해보세요~.
 
