@@ -44,7 +44,7 @@ Database, MySQL. https://dev.mysql.com/ ; MySQL Community Server (GPL License)
 <br/>
 <br/>
 
-공부를 하고, github을 해보구요. 라이센스가 없다고 보는 것이 맞겠죠. <h2>공부목적으로 기록한 것 뿐입니다. </h2>
+공부를 하고, github을 해보구요. <h2>이 해당 git은, 공부목적으로 기록한 것 뿐입니다. </h2>
 
 <h2>즐겁기 위한 지식 공유이죠. 공부에는 도움이 될거라고 생각해보네요.</h2>
 <h2>공부. 프로그래밍. 해보세요~. </h2>
