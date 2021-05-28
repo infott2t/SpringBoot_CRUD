@@ -1,15 +1,28 @@
 # SpringBoot_CRUD
 
 <br/>
+<h2?Hello~.</h2>
+<h2>Let's safely use smartphones, etc.</h2> 
+<h2>Let's make good traditioning to self.</h2><br/><br/>
+<h2>안녕하세요.</h2>
+<h2>스마트 기기등. 안전하게 사용합시다. 좋은 습관을 만들어요.</h2>
+
+<br/><br/><br/><br/>
+
+I use this, 
+
 Web Programming. use, Spring Boot, https://spring.io/
+
+Programming language, JAVA. https://www.oracle.com/index.html
+
+Database, MySQL. https://dev.mysql.com/
+
 <br/>
 참조한 책, Book. 예제로 배우는 스프링 부트 입문,  비제이퍼블릭, isbn 979-11-6592-030-2.
 
 <br/><br/>
+<h2>설명</h2>
 
-
-안녕하세요. 스마트 기기등. 안전하게 사용합시다. 좋은 습관을 만들어요.
-<br/><br/>
 
 Mybatis를 사용해서, 데이터 베이스와 연결이 쉽고, 쿼리문도 간결하게 사용이 가능하구요. 게시판 CRUD와 회원가입, 회원 암호 수정을 만들어봤습니다.
 
