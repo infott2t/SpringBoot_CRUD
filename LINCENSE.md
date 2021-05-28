@@ -39,6 +39,8 @@ Database, MySQL. https://dev.mysql.com/ ; MySQL Community Server (GPL License)
 
 
 저에게 책임 전가는 아니라는 생각을 해봄니다. <h2>저는 이 git코드를 사용하고, 발생한 해당 피해에 관해서, 일절 책임지지 않습니다.</h2> 지금 생각나서 이렇게 라이센스 적는데요.
+
+
 <br/>
 <br/>
 
