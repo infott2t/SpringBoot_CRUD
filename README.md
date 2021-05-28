@@ -11,14 +11,15 @@
 
 I use this, 
 
-Web Programming. use, Spring Boot, https://spring.io/
+Web Programming. Use, Spring Boot, https://spring.io/
 
 Programming language, JAVA. https://www.oracle.com/index.html
 
 Database, MySQL. https://dev.mysql.com/
 
 <br/>
-참조한 책, Book. 예제로 배우는 스프링 부트 입문,  비제이퍼블릭, isbn 979-11-6592-030-2.
+참조한 책, Book. <br/><br/>
+예제로 배우는 스프링 부트 입문;  비제이퍼블릭; isbn 979-11-6592-030-2.
 
 <br/><br/>
 <h2>설명</h2>
