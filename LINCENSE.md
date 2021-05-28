@@ -13,12 +13,14 @@ Web Programming. Use, Spring Boot, https://spring.io/
 
 Programming language, JAVA. https://www.oracle.com/index.html
 
-Database, MySQL. https://dev.mysql.com/
+Database, MySQL. https://dev.mysql.com/ ; MySQL Community Server (GPL License)
 
 <br/>
 참조한 책, Book. <br/><br/>
 예제로 배우는 스프링 부트 입문;  비제이퍼블릭; isbn 979-11-6592-030-2.
-
+<br/><br/>
+I no use this git code on commerce. 
+저는 이 git 코드를 상업적으로 이용하지 않습니다.
 <br/><br/>
 <h2>설명</h2>
 
